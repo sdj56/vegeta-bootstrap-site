@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Vegeta - Prince of All Saiyans</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <main>
+      <section class="py-5 text-center container">
+        <div class="row py-lg-5">
+          <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Vegeta</h1>
+            <p class="lead text-muted">Prince of the Saiyan race. Fierce rival of Goku. Hero of Earth.</p>
+            <img src="images/vegeta.jpg" class="img-fluid rounded" alt="Vegeta">
+            <p class="mt-3">Website created by Semari Johnson.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+    <script src="js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
